@@ -5,6 +5,7 @@
 A dynamic web application built with React.js that allows users to change the background color of the interface instantly. This project was built to practice React Hooks (`useState`) and event handling.
 
 ## 📸 Project Screenshot
+<img width="1440" height="900" alt="Screenshot 2025-11-29 at 8 36 41 PM" src="https://github.com/user-attachments/assets/2abbc6b1-e5c2-4454-b615-679ad2fe2dee" />
 
 ## ✨ Features
 
